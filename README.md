@@ -10,3 +10,4 @@
 6. [Desk](https://codepen.io/_sakibhussain/pen/QWdOogv)
 7. [Instagram Logo](https://codepen.io/_sakibhussain/pen/LYxzjbx)
 8. [YouTube Logo](https://codepen.io/_sakibhussain/pen/KKaXKzQ)
+9. [Unique Emoji](https://codepen.io/_sakibhussain/pen/dyNYVYr)
